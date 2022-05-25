@@ -1,5 +1,3 @@
-
-
 public class Main {
     public static class Person{
         String name;
