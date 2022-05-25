@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class InputProgram {
+    public static void main(String[] args){
+        Scanner scn = new Scanner(System.in);
+
+        System.out.print("Enter the first name: ");
+        String firstName = scn.next();
+
+        System.out.print("Enter the last name: ");
+        String lastName = scn.next();
+
+        System.out.println(firstName+lastName);
+
+
+    }
+    
+}
+
