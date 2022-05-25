@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class reverse {
@@ -19,10 +17,7 @@ public class reverse {
         }
 
         System.out.println("REVERSE OF " +num+ " IS: "+rev);
-        
-
     }
-
-    }
+}
     
 
